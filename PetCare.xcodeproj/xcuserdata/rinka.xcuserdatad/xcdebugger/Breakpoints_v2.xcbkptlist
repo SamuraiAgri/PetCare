@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AD6F6A69-B934-4BC1-BC0A-1DC537C42513"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "456DCCE3-38C0-4F6C-AF67-DA6015DB7AF9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PetCare/Views/AppointmentEntryView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "192"
+            endingLineNumber = "192"
+            landmarkName = "saveAppointment()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "456DCCE3-38C0-4F6C-AF67-DA6015DB7AF9 - 9360e1487f5c4edc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PetCare.AppointmentEntryView.saveAppointment() -&gt; ()"
+                  moduleName = "PetCare.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rinka/ios/PetCare/PetCare/Views/AppointmentEntryView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "193"
+                  endingLineNumber = "193">
+               </Location>
+               <Location
+                  uuid = "456DCCE3-38C0-4F6C-AF67-DA6015DB7AF9 - 9360e1487f5c4edc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PetCare.AppointmentEntryView.saveAppointment() -&gt; ()"
+                  moduleName = "PetCare.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rinka/ios/PetCare/PetCare/Views/AppointmentEntryView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "193"
+                  endingLineNumber = "193">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
